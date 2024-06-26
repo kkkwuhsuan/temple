@@ -172,7 +172,7 @@ Google搜尋:&nbsp;&nbsp;</b> <input type="text"name="q"placeholder="請輸入�
 </form>
 </div>
 <div id="u">
-<button><a href="index.php"><b>🏠首頁</b></a></button>
+<button><a href="index.html"><b>🏠首頁</b></a></button>
 <button><a href="1.html"><b>安太歲</b></a></button>
 <button><a href="2.php"><b>借發財金</b></a></button>
 <button><a href="3-1.php"><b>月老求籤占卜</b></a></button>
